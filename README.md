@@ -1,6 +1,11 @@
-## Hi there 👋
+<div align="center">
+	<h1>Hello. I'm a full stack developer based in Philadelphia, PA.</h1>
+	<img src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art" alt="Funny programmer gif hahaha" width="100%" />
+</div>
 
 <!--
+(leaving the below default here... because i like it. the emojis are nice)
+
 **alecmekarzel/alecmekarzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

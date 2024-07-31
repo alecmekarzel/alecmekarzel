@@ -1,21 +1,16 @@
-<div align="center">
-	<h2>Hi there 👋 I'm a full stack developer based in Philadelphia, PA.</h2>
-	<img src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art" alt="Funny programmer gif hahaha" width="70%" style="margin:auto" />
-</div>
 
-<!--
-(leaving the below default here... because i like it. the emojis are nice)
+<img src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art" alt="Funny programmer gif hahaha" width="40%" style="margin:auto" />
 
-**alecmekarzel/alecmekarzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 my name is Alec.
+#### I'm a full stack developer based in Philadelphia, PA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on backend API's and web-based Unreal Engine projects.
+- 🌱 I’m learning more about machine learning.
+- 👯 I’m looking to collaborate on any and all fun projects in the web/AI/3D space.
+
+- 💬 Ask me about my love for cooking or my two adorable cats.
+- ⚡ Fun fact: I'm one of those guys with a hyena pitched laugh.
+
+Feel free to reach out, I'd love to chat!

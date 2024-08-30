@@ -1,1 +1,1 @@
-make bugs go poof
+make bug go poof
